@@ -22,23 +22,23 @@ A submatrizB pode ser encontrada 2 vez(es) na matrizA.
 
 **Entradas:**
 
-Dimensão da matriz A: 
+Dimensão da matriz A:<br />
 `4 4` (linhas x colunas)
 
-Valores da matriz A (por linha):
-`1 2 3 4` (linha 0)
-`5 6 7 8` (linha 1)
-`9 1 2 3` (linha 2)
+Valores da matriz A (por linha):<br />
+`1 2 3 4` (linha 0)<br />
+`5 6 7 8` (linha 1)<br />
+`9 1 2 3` (linha 2)<br />
 `4 5 6 7` (linha 3)
 
-Dimensão da submatriz B: 
+Dimensão da submatriz B:<br /> 
 `2 2` (linhas x colunas)
 
-Valores da submatriz B (por linha):
-`2 3` (linha 0)
+Valores da submatriz B (por linha):<br />
+`2 3` (linha 0)<br />
 `6 7` (linha 1)
 
-**Saída:**
+**Saída:**<br />
 `A submatrizB pode ser encontrada 2 vez(es) na matrizA.`
 
 ### Exemplo 2:
@@ -62,20 +62,20 @@ A submatrizB pode ser encontrada 1 vez(es) na matrizA.
 
 **Entradas:**
 
-Dimensão da matriz A: 
+Dimensão da matriz A:<br /> 
 `3 4` (linhas x colunas)
 
-Valores da matriz A (por linha):
-`1 2 3 4` (linha 0)
-`5 6 7 8` (linha 1)
+Valores da matriz A (por linha):<br />
+`1 2 3 4` (linha 0)<br />
+`5 6 7 8` (linha 1)<br />
 `9 1 2 3` (linha 2)
 
-Dimensão da submatriz B: 
+Dimensão da submatriz B:<br /> 
 `2 2` (linhas x colunas)
 
-Valores da submatriz B (por linha):
-`3 4` (linha 0)
+Valores da submatriz B (por linha):<br />
+`3 4` (linha 0)<br />
 `7 8` (linha 1)
 
-**Saída:**
+**Saída:**<br />
 `A submatrizB pode ser encontrada 1 vez(es) na matrizA.` 
