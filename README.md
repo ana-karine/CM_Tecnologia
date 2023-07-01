@@ -4,7 +4,7 @@
 
 #### Recursos utilizados: 
 **Editor de código-fonte:** Visual Studio Code<br />
-**Linguagem de programação:** Java
+**Linguagem de programação:** Java<br />
 **Plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git:** GitHub
 
 #### Desafios de código:
